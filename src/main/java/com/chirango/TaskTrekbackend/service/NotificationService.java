@@ -6,4 +6,6 @@ public interface NotificationService {
     Notification sendNotification(Notification notification);
 
     Notification saveNotification(Notification notification);
+
+    String sendTestNotification();
 }

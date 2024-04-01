@@ -16,7 +16,7 @@ public class AssignmentController {
     private AssignmentService assignmentService;
 
     @PostMapping("/assignments")
-    public Assignment saveAssignment(AssignmentRequest assignmentRequest) {
+    public Assignment saveAssignment(@RequestBody AssignmentRequest assignmentRequest) {
         return assignmentService.saveAssignment(assignmentRequest);
     }
 
