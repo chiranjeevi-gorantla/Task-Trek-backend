@@ -93,7 +93,7 @@ Here’s the cooking schedule for the upcoming week.
 7. Sunday - Date - Full Name - Dish
 
 Please review your assignment and ensure you are prepared for your cooking duties accordingly.
-If you have any questions or concerns, reach out to chef_rotation_tracker@gmail.com
+If you have any questions or concerns, reach out to tasktrek.app@gmail.com
 
 Best regards,
 TaskTrek
